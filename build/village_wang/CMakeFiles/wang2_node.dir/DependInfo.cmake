@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/chen/town_ws/src/village_wang/src/wang2.cpp" "CMakeFiles/wang2_node.dir/src/wang2.cpp.o" "gcc" "CMakeFiles/wang2_node.dir/src/wang2.cpp.o.d"
+  "/home/chen/github_ws/town_ws/src/village_wang/src/wang2.cpp" "CMakeFiles/wang2_node.dir/src/wang2.cpp.o" "gcc" "CMakeFiles/wang2_node.dir/src/wang2.cpp.o.d"
   )
 
 # Targets to which this target links.

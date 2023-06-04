@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/chen/town_ws/src/village_wang
+CMAKE_SOURCE_DIR = /home/chen/github_ws/town_ws/src/village_wang
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/chen/town_ws/build/village_wang
+CMAKE_BINARY_DIR = /home/chen/github_ws/town_ws/build/village_wang
 
 # Utility rule file for village_wang_uninstall.
 
@@ -67,7 +67,7 @@ include CMakeFiles/village_wang_uninstall.dir/compiler_depend.make
 include CMakeFiles/village_wang_uninstall.dir/progress.make
 
 CMakeFiles/village_wang_uninstall:
-	/usr/bin/cmake -P /home/chen/town_ws/build/village_wang/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
+	/usr/bin/cmake -P /home/chen/github_ws/town_ws/build/village_wang/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
 
 village_wang_uninstall: CMakeFiles/village_wang_uninstall
 village_wang_uninstall: CMakeFiles/village_wang_uninstall.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/village_wang_uninstall.dir/clean:
 .PHONY : CMakeFiles/village_wang_uninstall.dir/clean
 
 CMakeFiles/village_wang_uninstall.dir/depend:
-	cd /home/chen/town_ws/build/village_wang && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/chen/town_ws/src/village_wang /home/chen/town_ws/src/village_wang /home/chen/town_ws/build/village_wang /home/chen/town_ws/build/village_wang /home/chen/town_ws/build/village_wang/CMakeFiles/village_wang_uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/chen/github_ws/town_ws/build/village_wang && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/chen/github_ws/town_ws/src/village_wang /home/chen/github_ws/town_ws/src/village_wang /home/chen/github_ws/town_ws/build/village_wang /home/chen/github_ws/town_ws/build/village_wang /home/chen/github_ws/town_ws/build/village_wang/CMakeFiles/village_wang_uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/village_wang_uninstall.dir/depend
 

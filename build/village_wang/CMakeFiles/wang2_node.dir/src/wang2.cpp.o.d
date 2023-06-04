@@ -1,5 +1,5 @@
 CMakeFiles/wang2_node.dir/src/wang2.cpp.o: \
- /home/chen/town_ws/src/village_wang/src/wang2.cpp \
+ /home/chen/github_ws/town_ws/src/village_wang/src/wang2.cpp \
  /usr/include/stdc-predef.h \
  /opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp \
  /usr/include/c++/11/csignal \

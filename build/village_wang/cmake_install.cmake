@@ -1,8 +1,8 @@
-# Install script for directory: /home/chen/town_ws/src/village_wang
+# Install script for directory: /home/chen/github_ws/town_ws/src/village_wang
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/chen/town_ws/install/village_wang")
+  set(CMAKE_INSTALL_PREFIX "/home/chen/github_ws/town_ws/install/village_wang")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -43,11 +43,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/village_wang")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/village_wang")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/village_wang")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/village_wang")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -55,7 +55,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang/environment" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/ament_prefix_path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang/environment" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/ament_prefix_path.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -63,42 +63,42 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang/environment" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang/environment" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/path.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.bash")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.bash")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.sh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.zsh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.zsh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/local_setup.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_environment_hooks/package.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_environment_hooks/package.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/chen/town_ws/build/village_wang/ament_cmake_index/share/ament_index/resource_index/packages/village_wang")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_index/share/ament_index/resource_index/packages/village_wang")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang/cmake" TYPE FILE FILES
-    "/home/chen/town_ws/build/village_wang/ament_cmake_core/village_wangConfig.cmake"
-    "/home/chen/town_ws/build/village_wang/ament_cmake_core/village_wangConfig-version.cmake"
+    "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_core/village_wangConfig.cmake"
+    "/home/chen/github_ws/town_ws/build/village_wang/ament_cmake_core/village_wangConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/town_ws/src/village_wang/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/village_wang" TYPE FILE FILES "/home/chen/github_ws/town_ws/src/village_wang/package.xml")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -108,7 +108,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/village_wang/wang2_node"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/village_wang" TYPE EXECUTABLE FILES "/home/chen/town_ws/build/village_wang/wang2_node")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/village_wang" TYPE EXECUTABLE FILES "/home/chen/github_ws/town_ws/build/village_wang/wang2_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/village_wang/wang2_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/village_wang/wang2_node")
     file(RPATH_CHANGE
@@ -129,5 +129,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/chen/town_ws/build/village_wang/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/chen/github_ws/town_ws/build/village_wang/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
